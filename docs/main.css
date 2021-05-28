@@ -3033,7 +3033,7 @@ code {
   background-color: rgba(255, 255, 255, 0.08);
 }
 .mentioned-xhSam7::before {
-  background-color: var(--main-color);
+  background-color: var(--danger-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive {
   color: var(--main-color);
@@ -7943,7 +7943,7 @@ textarea::-webkit-scrollbar {
 }
 
 .categoryPill-34fszg.selected-1dONk0 {
-  background-color: var(--main-color);
+  background-color: var(--danger-color);
 }
 
 .emptyContainer-1_gwCl {
