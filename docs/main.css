@@ -727,8 +727,8 @@ textarea,
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.7);
 }
 .iconBadge-3qSJIw.participating-1NvRVd {
-  background: var(--main-color);
-  box-shadow: 0 0 0 1px var(--main-color);
+  background: var(--danger-color);
+  box-shadow: 0 0 0 1px var(--danger-color);
 }
 .iconBadge-3qSJIw.participating-1NvRVd .icon-3s6X1M {
   color: #fff;
@@ -736,8 +736,8 @@ textarea,
 
 .icon-3s6X1M {
   padding: 1px;
-  color: var(--main-color);
-  filter: drop-shadow(0 0 3px var(--main-color));
+  color: var(--danger-color);
+  filter: drop-shadow(0 0 3px var(--danger-color));
 }
 
 .wrapper-3Njo_c .expandedFolderBackground-1cujaW {
@@ -773,7 +773,7 @@ textarea,
   transition: all 0.3s ease-in-out;
 }
 .circleIconButton-1QV--U:hover, .circleIconButton-1QV--U.selected-1JjBPm {
-  background: var(--main-color);
+  background: var(--danger-color);
   color: #fff;
 }
 
