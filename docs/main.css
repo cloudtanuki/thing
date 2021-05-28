@@ -2003,7 +2003,7 @@ textarea,
 }
 .message-2qnXI6 .mentioned-xhSam7:after {
   background: rgba(255, 255, 255, 0.1);
-  border-left: 4px solid var(--main-color);
+  border-left: 4px solid var(--danger-color);
   border-radius: 2px 0 0 2px;
 }
 .message-2qnXI6 .markup-2BOw-j .blockquoteDivider-2hH8H6 {
@@ -3013,7 +3013,7 @@ code {
 }
 .topic-TCb_qw .wrapper-3WhCwL:hover,
 .markup-2BOw-j .wrapper-3WhCwL:hover {
-  background-color: var(--main-color);
+  background-color: var(--danger-color);
   color: #fff;
 }
 .topic-TCb_qw strong > .wrapper-3WhCwL,
@@ -3036,7 +3036,7 @@ code {
   background-color: var(--danger-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive {
-  color: var(--main-color);
+  color: var(--danger-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive:hover {
   color: #fff;
@@ -3044,7 +3044,7 @@ code {
 }
 
 .wrapper-3WhCwL {
-  color: var(--main-color);
+  color: var(--danger-color);
 }
 .wrapper-3WhCwL:hover {
   background-color: var(--main-color);
